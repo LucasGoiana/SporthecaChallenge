@@ -1,0 +1,14 @@
+{
+    "require": {
+        "php": ">=7.1.3",
+        "symfony/var-dumper": "v4.4.37"
+    },
+    "autoload": {
+        "psr-4":{
+            "Controllers\\":"Controllers/",
+            "Models\\":"Models/",
+            "Helpers\\":"Helpers/",
+            "Transformers\\":"Transformers"
+        }
+    }
+}

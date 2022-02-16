@@ -1,0 +1,33 @@
+[
+  {
+      "id": 2,
+      "name": "Vinicius Barros Cardoso",
+      "country": "Brasil",
+      "age": 37,
+      "created_at": "19/05/2020",
+      "hobbies": [
+          "Escrever",
+          "Assitir séries"
+      ]
+  },
+  {
+      "id": 3,
+      "name": "Beatriz Dias Ferreira",
+      "country": "Brasil",
+      "age": 28,
+      "created_at": "13/06/2020",
+      "hobbies": [
+          "Assitir séries",
+          "Ler livros",
+          "Viajar"
+      ]
+  },
+  {
+      "id": 5,
+      "name": "Tomás Costa Dias",
+      "country": "Brasil",
+      "age": 55,
+      "created_at": "20/01/2021",
+      "hobbies": []
+  }
+]
