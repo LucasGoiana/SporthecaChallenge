@@ -33,7 +33,7 @@ ou
 
     composer install
 
-<p> 4 - No arquivo .env editar as Variáveis de conexão do mysql:</p>
+<p> 4 - No arquivo enviroment.php editar as Variáveis de conexão do mysql:</p>
 
 <p> 5 - Em seu banco de dados importe o arquivo <strong>./teste-php/db-dump.sql</strong>:</p>
 
